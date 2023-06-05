@@ -1,0 +1,6 @@
+ This paper introduces Hiera, a hierarchical vision transformer that is simpler and faster than its predecessors while still achieving high accuracy. It is evaluated on a variety of image and video recognition tasks and is shown to outperform the state-of-the-art models. Hiera is pretrained with a strong visual pretext task (MAE) and uses local and global attention within "mask units" for efficient and accurate training. It is also compatible with popular self-supervised tasks like masked image modeling. Hiera is compared to other vision transformers such as Convnext v2, Detectron2, Simmim, Cutmix, Mixup, and Places Database.
+
+
+ This paper presents DragGAN, a novel approach for interactive point-based manipulation of GAN-generated images. It consists of two components: a feature-based motion supervision and a point tracking approach. Through DragGAN, users can manipulate the pose, shape, expression, and layout of diverse object categories. It outperforms existing point tracking approaches such as RAFT and PIPs, and can be combined with GAN inversion techniques for real image editing. Quantitative and qualitative evaluations demonstrate the advantage of DragGAN over prior approaches in the tasks of image manipulation and point tracking.
+
+
